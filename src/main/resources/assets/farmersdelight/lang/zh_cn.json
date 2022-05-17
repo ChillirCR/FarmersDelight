@@ -76,6 +76,7 @@
   "item.farmersdelight.cabbage_seeds": "卷心菜种子",
   "item.farmersdelight.tomato_seeds": "番茄种子",
   "item.farmersdelight.rice_panicle": "稻米穗",
+  "item.farmersdelight.rotten_tomato": "烂番茄",
 
   "item.farmersdelight.straw": "草秆",
   "item.farmersdelight.canvas": "粗布",
@@ -251,6 +252,9 @@
   "farmersdelight.block.cutting_board.invalid_tool": "或许得换个工具……",
   "farmersdelight.block.skillet.invalid_item": "这东西可不能放进去……",
   "farmersdelight.item.skillet.how_to_cook": "用你的另一只手把食物拿好！",
+  
+  "death.attack.farmersdelight.stove": "%1$s 烤得非常完美",
+  "death.attack.farmersdelight.stove.player": "%1$s 被厨师 %2$s 扔到了烤架上",
   
   "farmersdelight.jei.cooking": "烹饪",
   "farmersdelight.jei.cutting": "砧板",
